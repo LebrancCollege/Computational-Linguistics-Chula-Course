@@ -27,4 +27,30 @@
   re.sub(<Pattern Match>, <Replace with>, ...)
   ```
 - Variation of Languages (Sociolinguistic Factors)
-- ...
+- Complexity of Language 
+  - Language has structure
+    - Discourse: List of Sentences
+    - Syntax: Sentence and Phrase Structure
+    - Morphology: Structure of a word.
+  - Linguistics Structure
+    - Phonetics 
+    - Phonology
+    - Morphology
+    - Syntax 
+    - Semantics
+    - Pragmatics
+- Common Linguistic Analysis
+  - Word Segmentation
+    - Rule-Based Word Segmentation
+      - Example
+        - Segment "Got a long list of ex-lovers, they'll tell you I'm insane (Yeah)"
+        - What are the regular expression rule for the segmentation?
+      - Example
+        - themendinehere 
+        - Possible Segmentation (Dictionary-Based)
+    - Dictionary-Based 
+    - Machine Learning System
+    - Token
+  - Sentence Segmentation
+  - Morphological Analysis
+- คำเป็นหน่วยทางทฤษฎี เป็นสิ่งที่ถูกสร้างขึ้นมา 

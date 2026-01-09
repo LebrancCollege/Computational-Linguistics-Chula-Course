@@ -48,6 +48,7 @@
       - Example
         - themendinehere 
         - Possible Segmentation (Dictionary-Based)
+      - Maximal Matching Algorithm  
     - Dictionary-Based 
     - Machine Learning System
     - Token

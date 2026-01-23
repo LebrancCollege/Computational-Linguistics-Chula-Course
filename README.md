@@ -161,3 +161,22 @@ Sentence
         - 2PR / (P + R)
       - Macro-Average 
         - เอา F1 Score แต่ละตัวมาเฉลี่ยเป็นค่าค่าเดียว 
+
+## Week 03: Logistic Regression
+
+- Logistic Regression
+- Vector
+  - ชุดของตัวเลขเรียงกัน แต่ใช้ตัวแปรตัวเดียวแทน 
+- z = sum(weight_n * value_n) + bias  
+
+### Binary Class  
+- Sigmoid
+  - Convert Z -> P(Y=1|X) 
+
+### Multiclass
+- Softmax: ค่าสูงสุด แบบไม่ฟันธง (Softๆ) 
+
+### Matrix and Vector
+
+- Dot Product: ถามว่าเวกเตอร์ 2 อัน คล้ายกันแค่ไหน  
+- Cosine Similarity: การทำมุมกันของเวกเตอร์  

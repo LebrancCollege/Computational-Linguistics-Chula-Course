@@ -180,3 +180,30 @@ Sentence
 
 - Dot Product: ถามว่าเวกเตอร์ 2 อัน คล้ายกันแค่ไหน  
 - Cosine Similarity: การทำมุมกันของเวกเตอร์  
+
+### Logarithm and Exponential
+
+- ใช้ Log เพื่อเอาไปแปลงเลขให้ดูสวยขึ้น ให้ระบบเก็บเลขทศนิยมที่เยอะๆ 
+
+### Log-Likelihood
+
+- Logarithm ของ Prob ที่เราคำนวณมาได้
+- สนใจแค่ Logarithm ของช่องที่ตรงกับ Label เท่านั้น  
+
+### Cross-Entropy Loss
+
+- ใช้ในเกือบทุกโมเดลที่เป็น Classification  
+
+### Optimization Algorithm
+
+- การหาค่าที่เหมาะสมที่สุด
+- ใช้ Loss Function 
+- ใช้ Gradient ในการบอกว่าควรจะปรับอย่างไรให้ Loss Function ออกมาดี 
+
+### Calculus
+
+- ใน NLP, X ไว้ใช้เป็น Parameter, F(X) เป็น Loss Function ที่เราต้องการที่จะ Minimize  
+
+### Loss Function & Gradient Descent
+
+- Gradient Descent เราใช้การกำหนดจุดแล้วให้ลงไปเรื่อยๆ ถ้าเริ่มถูกจะไปลงที่ Global Minimum ถ้าลงผิดจุดจะไปลงที่ Local Minimum  

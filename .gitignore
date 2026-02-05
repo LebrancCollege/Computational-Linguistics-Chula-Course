@@ -2,4 +2,4 @@
 **/.env 
 **/code/bin  
 **/code/lib
-.venv  
+**/.venv

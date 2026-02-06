@@ -207,3 +207,43 @@ Sentence
 ### Loss Function & Gradient Descent
 
 - Gradient Descent เราใช้การกำหนดจุดแล้วให้ลงไปเรื่อยๆ ถ้าเริ่มถูกจะไปลงที่ Global Minimum ถ้าลงผิดจุดจะไปลงที่ Local Minimum  
+
+### Stochastic Gradient Descent   
+
+### Step to train data
+
+- Read CSV
+- Clean Data
+- Feature Vector
+- Split Train-Dev-Test
+- Train on Training Set   
+- Evaluate the dev set 
+- Stratify
+  - รันตอนไหนก็ต้องได้ผลลัพธ์ออกมาเหมือนกัน  
+
+
+## Week 04: N-Gram Language Model
+
+### Word Guessing
+- หากเราคล่องภาษา เราจะสามารถเดาคำจากบริบทของประโยคได้ 
+- ต้องมีความเข้าใจเกี่ยวกับการทำงานของธรรมชาติ หรือ ของโลกได้  
+
+### Probability
+- Probability Distribution over Vocabulary   
+  - 0 < P(W=w) < 1
+  - The sum of all probability distribution must be 1
+  - We can sample a word from the distribution. Word with high probability must be frequently picked. 
+
+### Bigram   
+
+### Perplexity
+- Lower = Better   
+
+
+## Week 05: Deep Learning (I) - Word Embedding
+
+### Lexical Semantics
+
+### Lexical Relation  
+
+### Computational Lexical Semantics  

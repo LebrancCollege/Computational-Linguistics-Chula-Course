@@ -247,3 +247,24 @@ Sentence
 ### Lexical Relation  
 
 ### Computational Lexical Semantics  
+
+###
+เทรนรอบเดียวพอ เพราะเยอะ ใช้เวลานาน  
+
+
+## Week 06: Deep Learning (II) - Neural Network   
+
+### How the brain works?  
+
+### Neural Network Unit
+
+### Training Vocab
+- Iteration: 
+- Epoch: กี่ลูปในหนึ่งรอบการเทรนข้อมูล 
+
+### Mini Batching
+
+### Momentum
+- [Playground](https://distill.pub/2017/momentum/)  
+
+### Adam Optimizer  
